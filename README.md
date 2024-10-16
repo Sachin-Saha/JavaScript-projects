@@ -14,7 +14,7 @@ Here are the projects included in this repository:
 
 1. **Stone Paper Scissors Game**
    - A fun game where you can play against the computer using the classic rules.
-   - [View Project](link-to-stone-paper-scissors)
+   - [View Project]([link-to-stone-paper-scissors](https://github.com/Sachin-Saha/JavaScript-projects/tree/main/StonePaperSeccior%20Game))
 
 2. **Tic Tac Toe**
    - A simple and interactive Tic Tac Toe game where two players can compete against each other.
