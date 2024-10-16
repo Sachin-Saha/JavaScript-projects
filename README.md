@@ -7,9 +7,6 @@ Welcome to the **JavaScript Projects** repository! This repository contains a co
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Projects
 
@@ -23,6 +20,14 @@ Here are the projects included in this repository:
    - A simple and interactive Tic Tac Toe game where two players can compete against each other.
    - [View Project](link-to-tic-tac-toe)
 
+3. **Weather Application**
+   - A weather application that provides users with current weather conditions based on their location.
+   - [View Project](link-to-weather-application)
+
+4. **Image Slider**
+   - An interactive image slider that changes the background to the clicked image and transitions through images like a slider.
+   - [View Project](link-to-image-slider)
+
 (Feel free to add more projects as necessary!)
 
 ## Technologies Used
@@ -30,6 +35,7 @@ Here are the projects included in this repository:
 - HTML
 - CSS
 - JavaScript
+- API WEBSITE: [https://openweathermap.org/api]
 
 ## Installation
 
