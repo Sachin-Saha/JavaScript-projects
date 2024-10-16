@@ -28,7 +28,6 @@ Here are the projects included in this repository:
    - An interactive image slider that changes the background to the clicked image and transitions through images like a slider.
    - Project link: (https://github.com/Sachin-Saha/JavaScript-projects/tree/main/SlideImage)
 
-(Feel free to add more projects as necessary!)
 
 ## Technologies Used
 
