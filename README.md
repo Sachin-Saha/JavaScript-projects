@@ -14,19 +14,19 @@ Here are the projects included in this repository:
 
 1. **Stone Paper Scissors Game**
    - A fun game where you can play against the computer using the classic rules.
-   - (https://github.com/Sachin-Saha/JavaScript-projects/tree/main/StonePaperSeccior%20Game))
+   - Project link : (https://github.com/Sachin-Saha/JavaScript-projects/tree/main/StonePaperSeccior%20Game)
 
 2. **Tic Tac Toe**
    - A simple and interactive Tic Tac Toe game where two players can compete against each other.
-   - [View Project](link-to-tic-tac-toe)
+   -  Project link : (https://github.com/Sachin-Saha/JavaScript-projects/tree/main/tictactoe)
 
 3. **Weather Application**
    - A weather application that provides users with current weather conditions based on their location.
-   - [View Project](link-to-weather-application)
+   - Project link : (https://github.com/Sachin-Saha/JavaScript-projects/tree/main/weatherAplication)
 
 4. **Image Slider**
    - An interactive image slider that changes the background to the clicked image and transitions through images like a slider.
-   - [View Project](link-to-image-slider)
+   - Project link: (https://github.com/Sachin-Saha/JavaScript-projects/tree/main/SlideImage)
 
 (Feel free to add more projects as necessary!)
 
@@ -35,7 +35,7 @@ Here are the projects included in this repository:
 - HTML
 - CSS
 - JavaScript
-- API WEBSITE: [https://openweathermap.org/api]
+- API WEBSITE : [https://openweathermap.org/api]
 
 ## Installation
 
